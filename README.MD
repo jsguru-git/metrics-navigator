@@ -67,6 +67,6 @@ Note:
 - The application uses the email field instead of the username field for user identification.
 
 
-## Task
+## Task (Done)
 1. Add an input field for the user's Ethereum wallet address to the registration page. When a user registers an account, this wallet address must be saved to the database.
 2. After login, the homepage must show the balance of the user's Ethereum wallet address.
